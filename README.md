@@ -3,7 +3,7 @@
 
 ### A Project on Fraud Risk Management
 
-The project aims to detect fraudulent transactions by looking at past records of the person making transaction.We use anomaly detection to find any possible fraudulent transaction.
+The project aims to detect fraudulent transactions by looking at past records of the person making transaction. We use anomaly detection which is an unsupervised Machine Learning Algorithm to find any possible fraudulent transaction.
 
 India is one of a few countries where RBI has made it mandatory to send out an OTP for any online card transactions. But if you have been to US or transacted via your cards to companies based in US, you are not asked for any OTP, just card number and cvv works.
 This is clearly a way that can be exploited by fraudsters to make big bucks.
